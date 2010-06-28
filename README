@@ -1,1 +1,8 @@
-Hello World app that should read from the DB
+Your task is to take this code and make it display:
+
+  Hello
+  World
+
+Hint: you have one thing to change in the PHP code.
+
+Another hint: you may need to insert something in the database directly...
